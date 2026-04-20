@@ -123,10 +123,9 @@ Frontend:
 ```powershell
 npm run build
 ```
-
-<img width="1192" height="690" alt="Screenshot 2026-04-20 143403" src="https://github.com/user-attachments/assets/780b54b0-64c6-49da-80a8-d4ec21afed84" />
 <img width="917" height="802" alt="Screenshot 2026-04-20 143142" src="https://github.com/user-attachments/assets/301596db-1f99-43ee-8401-1cae4f15ada4" />
 <img width="902" height="774" alt="Screenshot 2026-04-20 143134" src="https://github.com/user-attachments/assets/487659c2-68bb-42fe-a7ec-0952b5c59805" />
+<img width="1192" height="690" alt="Screenshot 2026-04-20 143403" src="https://github.com/user-attachments/assets/780b54b0-64c6-49da-80a8-d4ec21afed84" />
 <img width="957" height="897" alt="Screenshot 2026-04-20 143118" src="https://github.com/user-attachments/assets/691cf4e5-a5c3-4a2d-ad2e-b0f24197bdb2" />
 <img width="1154" height="909" alt="Screenshot 2026-04-20 143106" src="https://github.com/user-attachments/assets/e28e1bed-a375-4863-b72b-85fc3fe2ef8d" />
 
